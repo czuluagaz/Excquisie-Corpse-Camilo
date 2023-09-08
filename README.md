@@ -58,3 +58,5 @@ The person will complete a table with and adjective, noun, adverb, verb, and the
 2. Create input with number of players to create the request loop
 3. Function to ask to players for adjective, noun, adverb, verb
 4. Print the result 
+# JULIEN
+I hope you will se this, that means that i have done it correctly
