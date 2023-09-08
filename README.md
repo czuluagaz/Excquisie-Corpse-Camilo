@@ -2,9 +2,12 @@
 
 # Description
 
-Create with others an exquisite corpse exercise
+Create with others an exquisite corpse exercise, allowing the practice of git and other tools (Markdown). Project creaed in Septermber 2023
+
+Go to The Story section and add your contribution. Don't forget to go to the Thanks to the contributors section to add your name. Thanks in advance.
 
 > "Exquisite corpse (from the original French term cadavre exquis, literally exquisite cadaver), is a method by which a collection of words or images is collectively assembled. Each collaborator adds to a composition in sequence, either by following a rule (e.g., "The adjective noun adverb verb the adjective noun." as in "The green duck sweetly sang the dreadful dirge.")[citation needed] or by being allowed to see only the end of what the previous person contributed." Wikipedia
+
 
 # Contribute to the repo of someone else
 
@@ -23,7 +26,6 @@ Create with others an exquisite corpse exercise
     checkout the main branch and check if your changes have been applied
     Remove the <your_name> branch locally
 
-
 # The Story
 
 **It was not long so time ago that** __ you can continue here __
@@ -31,6 +33,9 @@ Create with others an exquisite corpse exercise
 
 
 
+
+# Thanks to the contrbutors:
+__add your name here__
 
 
 
