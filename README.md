@@ -1,4 +1,4 @@
-# Excquisie-Corpse-Camilo
+# Excquisite-Corpse-Camilo
 
 # Description
 
