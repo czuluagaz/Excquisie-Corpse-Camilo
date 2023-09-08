@@ -32,8 +32,6 @@ Go to The Story section and add your contribution. Don't forget to go to the Tha
 
 
 
-
-
 # Thanks to the contrbutors:
 __add your name here__
 
@@ -65,3 +63,10 @@ I hope you will se this, that means that i have done it correctly
 I DID NOT BREAK YOUR CODE
 It mentionned 3 lines
 So here my 3 lines...
+
+# Alemash 
+## THIS IS MY CONTRIBUTION TO CAMILO'S CORPSE
+** The story about the three pigs has always been an Ehhmmm... moment for me
+** I mean how does a pig come to cook a porridge??
+** SOUNDS LIKE A SCAM SO FAR
+## Thankyou for inviting me
