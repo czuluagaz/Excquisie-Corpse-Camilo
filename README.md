@@ -27,7 +27,14 @@ Create with others an exquisite corpse exercise
 
 
 
-** You can ignore from here**
+
+
+
+
+
+
+
+**YOU CAN IGNORE FROM HERE**
 
 # The rule
 The person will complete a table with and adjective, noun, adverb, verb, and then it will be mixed and print in screen
